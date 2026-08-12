@@ -1,0 +1,18 @@
+{
+  "scenario1": {
+    "productName": "Boat Spea",
+    "email": "jaykumargupta9559@gmail.com",
+    "password": "Stu@9559jayy",
+    "countryValue": "IN",
+    "fullNameValue": "Jay Gupta",
+    "mobileNo": "9559624936",
+    "addedProductName": "Pyle 6.5 Inch Dual Marine Speakers - 2 Way Waterproof and Weather Resistant Outdoor Audio",
+    "streetAddressValue1": "Mondh Market",
+    "streetAddressValue2": "Station Road Bhadohi",
+    "suiteNoValue": "456",
+    "cityValue": "Bhadohi",
+    "stateValue": "Uttar Pradesh",
+    "zipCode": "345678",
+    "prodQty": "Subtotal (26 items):"
+  }
+}
